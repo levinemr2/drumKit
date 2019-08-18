@@ -1,6 +1,6 @@
 # drumKit
 
-#Description
+# Description
 
 This is a vanilla Javascript application that plays audio files after corrisponding keys are pressed on they keyboard. 
 
